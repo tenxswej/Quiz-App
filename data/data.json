@@ -1,0 +1,74 @@
+{
+  "questions" :   [
+    {
+      "id" : 1,
+      "question" : "Where is earth located?",
+      "correct": 0,
+      "choices" : [
+        {
+          "id" : 1,
+          "choice" : "Milky way"
+        },
+        {
+          "id" : 2,
+          "choice" : "Adromeda"
+        },
+        {
+          "id" : 3,
+          "choice" : "My grandma's house"
+        },
+        {
+          "id" : 4,
+          "choice" : "Banana"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "question" : "What is the Sun?",
+      "correct": 0,
+      "choices" : [
+        {
+          "id" : 1,
+          "choice" : "A Very hot fireball"
+        },
+        {
+          "id" : 2,
+          "choice" : "Joe biden"
+        },
+        {
+          "id" : 3,
+          "choice" : "Andrew tate's forehead"
+        },
+        {
+          "id" : 4,
+          "choice" : "Ha ha ha"
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "question" : "What is a Black hole?",
+      "correct": 3,
+      "choices" : [
+        {
+          "id" : 1,
+          "choice" : "My pocket"
+        },
+        {
+          "id" : 2,
+          "choice" : "Captain America"
+        },
+        {
+          "id" : 3,
+          "choice" : "A very deep hole which is black"
+        },
+        {
+          "id" : 4,
+          "choice" : "I don't know I'm sorry"
+        }
+      ]
+    }
+  ]
+}
+  
